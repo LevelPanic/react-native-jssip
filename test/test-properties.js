@@ -1,5 +1,5 @@
 require('./include/common');
-const JsSIP = require('../');
+const JsSIP = require('../lib/JsSIP');
 const pkg = require('../package.json');
 
 

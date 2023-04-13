@@ -25,17 +25,17 @@
     "url": "git+https://github.com/rvulpescu/react-native-jssip.git"
   },
   "dependencies": {
-    "@types/debug": "^4.1.5",
-    "@types/node": "^14.14.34",
-    "debug": "^4.3.1",
+    "@types/debug": "^4.1.7",
+    "@types/node": "^18.15.11",
+    "debug": "^4.3.4",
     "events": "^3.3.0",
-    "react-native": "^0.63.3",
-    "react-native-webrtc": "^1.84.0",
+    "react-native": "^0.71.6",
+    "react-native-webrtc": "^111.0.0",
     "sdp-transform": "^2.14.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.13.10",
-    "@babel/preset-env": "^7.13.10",
+    "@babel/core": "^7.21.4",
+    "@babel/preset-env": "^7.21.4",
     "ansi-colors": "^3.2.4",
     "browserify": "^16.5.1",
     "eslint": "^5.16.0",
