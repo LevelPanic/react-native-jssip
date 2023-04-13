@@ -2,7 +2,7 @@
 
 require('./include/common');
 const testUA = require('./include/testUA');
-const JsSIP = require('../lib/JsSIP');
+const JsSIP = require('../');
 
 
 module.exports = {
